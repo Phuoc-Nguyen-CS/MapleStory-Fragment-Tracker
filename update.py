@@ -11,7 +11,7 @@ if len(sys.argv) == 2 and sys.argv[1] == 'recent':
 elif len(sys.argv) == 2 and sys.argv[1] == 'total':
     print(result)
     sys.exit(1)
-elif len(sys.argv) < 4:
+elif len(sys.argv) < 5:
     print(len(sys.argv))
     print("Usage: Kills, Start, End, Drop")
     sys.exit(1)
