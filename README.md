@@ -10,6 +10,3 @@ In Command Line:
   * Displays day by day your rates and averages
 
 ![Alt text](Sreenshot.png)
-
-Future Implementation:
-See how much drop rate really plays a role in rate of fragments
